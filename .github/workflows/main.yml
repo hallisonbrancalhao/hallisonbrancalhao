@@ -1,0 +1,12 @@
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
