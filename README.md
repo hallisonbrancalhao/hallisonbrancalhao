@@ -1,5 +1,7 @@
 <p>
-Olá, me chamo Hallison e tenho 24 anos. Sou um profissional de TI que está sempre em busca de oportunidades para aprender e crescer. Com 8 semestres da graduação em Engenharia de Software concluídos, e considerável experiência na área de desenvolvimento, possuo uma ampla gama de habilidades que me permitem lidar com diversos desafios.
+Olá, meu nome é Hallison e tenho 24 anos. Sou uma pesso que está sempre em busca de oportunidades para aprender e crescer. Graduado em Engenharia de Software, e considerável experiência na área de desenvolvimento.
+
+Minha vontade de aprendizado constante é o que me motiva a continuar evoluindo, tanto pessoal quanto profissionalmente. Sou um indivíduo altamente adaptável e capaz de lidar com diferentes situações de forma eficaz
 </p>
 
 ➡️ ` ` [Meu site...](https://www.brancalhao.com.br)
